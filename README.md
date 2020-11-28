@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Vaibhav a Web Developer from India. I really enjoy learning new languages and frameworks.
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-84)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **Vaibhav-84/Vaibhav-84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
