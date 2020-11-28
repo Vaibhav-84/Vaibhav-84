@@ -2,7 +2,7 @@
 #### Design and Development
 ![Design and Development](https://wallpaperaccess.com/full/1947431.jpg)
 
-I'm Vaibhav a Web Developer from India. I really enjoy learning new languages and frameworks
+A Web Developer from India. I really enjoy learning new languages and frameworks
 
 Skills: VUE JS / REACT / JS / HTML / CSS
 
