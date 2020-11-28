@@ -4,7 +4,7 @@
 
 A Web Developer from India. I really enjoy learning new languages and frameworks
 
-Skills: VUE JS / REACT / JS / HTML / CSS
+Skills: DJANGO / JAVA / C++ / PYTHON / JS / HTML / CSS
 
 
 
