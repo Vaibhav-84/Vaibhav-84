@@ -1,6 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Vaibhav
+#### Design and Development
+![Design and Development](https://wallpaperaccess.com/full/1947431.jpg)
 
-I'm Vaibhav a Web Developer from India. I really enjoy learning new languages and frameworks.
+I'm Vaibhav a Web Developer from India. I really enjoy learning new languages and frameworks
+
+Skills: VUE JS / REACT / JS / HTML / CSS
+
+
+
+
+
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Vaibhav-84)](https://github.com/anuraghazra/github-readme-stats)
 
