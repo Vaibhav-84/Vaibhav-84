@@ -45,5 +45,5 @@
 <hr>
 
 
-<h3 align="center">“Measuring programming progress by lines of code is like measuring aircraft building progress by weight.”</h3>
-<p align='right'>– Bill Gates</p>
+<h3 align="center">Code never lies,</h3>
+<h3 align="center">comments sometimes do.</h3>
