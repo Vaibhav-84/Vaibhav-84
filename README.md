@@ -23,7 +23,17 @@
 
 - 📫 How to reach me **vaibhavbhapkar62@gmail.com**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav-84&show_icons=true&locale=en&layout=compact" alt="vaibhav-84" /></p>
+<details>
+  <summary>:zap: GitHub Stats</summary>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav-84&" alt="vaibhav-84" /></p>
+  <img align="left" alt="Anna's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Vaibhav-84&show_icons=true&hide_border=true" />
+
+</details>
+
+<details>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="Anna's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaibhav-84" />
+
+</details>
 
