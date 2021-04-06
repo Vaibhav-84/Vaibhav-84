@@ -16,7 +16,7 @@
 - 📫 How to reach me **vaibhavbhapkar62@gmail.com**
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Feel free to reach me out on:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/vaibhav-bhapkar-7718271b8/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/vaibhav-bhapkar-7718271b8/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/_.vaibhav_b/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_.vaibhav_b/" height="30" width="40" /></a>
