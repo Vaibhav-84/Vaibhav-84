@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vaibhav</h1>
 
-<img align="right" alt="GIF" src="https://wallpaperaccess.com/full/1947431.jpg" width="500" height="320" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500" height="320" />
 
 ## A passionate Web developer from India
 - ✍ You can find my projects here [portfolio] 
