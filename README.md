@@ -41,7 +41,7 @@
 
 </details>
 
-[portfolio]: http://vaibhavbhapkar.rf.gd/
+[portfolio]: https://vaibhavbhapkar.netlify.app/
 <hr>
 
 
